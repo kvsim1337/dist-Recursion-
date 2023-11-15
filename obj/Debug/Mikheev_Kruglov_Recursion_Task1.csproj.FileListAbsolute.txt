@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\Mikheev_Kruglov_Recursion_Task1\bin\Debug\Mikheev_Kruglov_Recursion_Task1.exe.config
+C:\Users\Иван\source\repos\Mikheev_Kruglov_Recursion_Task1\bin\Debug\Mikheev_Kruglov_Recursion_Task1.exe
+C:\Users\Иван\source\repos\Mikheev_Kruglov_Recursion_Task1\bin\Debug\Mikheev_Kruglov_Recursion_Task1.pdb
+C:\Users\Иван\source\repos\Mikheev_Kruglov_Recursion_Task1\obj\Debug\Mikheev_Kruglov_Recursion_Task1.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\Mikheev_Kruglov_Recursion_Task1\obj\Debug\Mikheev_Kruglov_Recursion_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Mikheev_Kruglov_Recursion_Task1\obj\Debug\Mikheev_Kruglov_Recursion_Task1.exe
+C:\Users\Иван\source\repos\Mikheev_Kruglov_Recursion_Task1\obj\Debug\Mikheev_Kruglov_Recursion_Task1.pdb
